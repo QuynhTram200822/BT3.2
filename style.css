@@ -110,5 +110,13 @@
     justify-content: center;
     align-items: center;
   }
+  .headline{
+    width: 350px;
+    margin: 20px auto;
+  }
+  .sub-headline{
+    margin: 10px auto;
+    width: 400px;
+  }
 }
 
